@@ -1,0 +1,6 @@
+C:\Users\ben\source\repos\MyChainOfResponsibilityPattern\MyChainOfResponsibilityPattern\bin\Debug\MyChainOfResponsibilityPattern.exe
+C:\Users\ben\source\repos\MyChainOfResponsibilityPattern\MyChainOfResponsibilityPattern\bin\Debug\MyChainOfResponsibilityPattern.pdb
+C:\Users\ben\source\repos\MyChainOfResponsibilityPattern\MyChainOfResponsibilityPattern\obj\Debug\MyChainOfResponsibilityPattern.csprojAssemblyReference.cache
+C:\Users\ben\source\repos\MyChainOfResponsibilityPattern\MyChainOfResponsibilityPattern\obj\Debug\MyChainOfResponsibilityPattern.csproj.CoreCompileInputs.cache
+C:\Users\ben\source\repos\MyChainOfResponsibilityPattern\MyChainOfResponsibilityPattern\obj\Debug\MyChainOfResponsibilityPattern.exe
+C:\Users\ben\source\repos\MyChainOfResponsibilityPattern\MyChainOfResponsibilityPattern\obj\Debug\MyChainOfResponsibilityPattern.pdb
